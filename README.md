@@ -1,79 +1,87 @@
 <h1 align="center">Hi 👋 I'm Sagar Bhedodkar</h1>
-<h3 align="center">Software Engineer • Backend Systems • AWS • Cloud • AI</h3>
-
 <p align="center">
-  Building scalable backend architectures and AI-powered systems.
-</p>
-
----
-
-## 🚀 About Me
-
-I am a backend-focused Software Engineer specializing in designing scalable, production-grade systems.
-
-- 🔹 Strong expertise in Spring Boot & Laravel ecosystems  
-- 🔹 Experienced in building microservices & high-performance REST APIs  
-- 🔹 Cloud-native development using AWS & Google Cloud  
-- 🔹 Interested in AI system integrations & LLM cost optimization  
-- 🔹 Open-source contributor  
-
----
-
-## 🧠 Open Source Highlight
-
-### 🚀 TOON — Token Optimized Object Notation
-
-A compact, token-efficient data format designed for AI prompts and LLM context handling in Laravel applications.
-
-<p align="center">
-  <img src="https://img.shields.io/packagist/dt/sbsaga/toon?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/sbsaga/toon?style=for-the-badge" />
-  <img src="https://img.shields.io/packagist/v/sbsaga/toon?style=for-the-badge" />
+  <b>Software Engineer | Spring Boot & Laravel | AWS | AI Systems | Creator of TOON</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sbsaga/toon"><b>View Repository</b></a>
+  <i>Architecting scalable backend systems and high-performance, cost-efficient AI solutions.</i>
 </p>
 
-This project focuses on reducing LLM token usage and improving AI API cost efficiency in real-world applications.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Backend Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,linux,githubactions" />
-</p>
-
-### 🌐 Frontend & Integration
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,js,ts" />
-</p>
-
-### 🐍 Additional Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Stack-Java_%26_PHP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS_%26_GCP-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Architectures-green?style=flat-square" />
 </p>
 
 ---
 
-## 🎯 Engineering Focus
+## ⚡ Professional Overview
 
-- Scalable microservices architecture  
-- Clean & maintainable backend design  
-- High-performance API development  
-- Cloud-native system architecture  
-- AI integration & token optimization strategies  
+I am a **Backend-driven Software Engineer** specializing in designing production-grade systems that scale. My expertise lies at the intersection of robust enterprise logic (Spring Boot/Laravel) and modern AI integration.
+
+- 🛠️ **System Architecture:** Expert in Microservices, RESTful APIs, and Event-Driven Design.
+- ☁️ **Cloud Native:** Deep experience in AWS/GCP infrastructure and CI/CD automation.
+- 🧠 **AI Innovation:** Focused on LLM cost-optimization and context-window efficiency.
+- 🚀 **Open Source:** Active contributor and creator of developer-centric tooling.
+
+---
+
+## 🧠 Featured Open Source: TOON
+
+### **TOON — Token Optimized Object Notation**
+**Maximizing AI performance while minimizing API costs.** TOON is a compact data format for Laravel designed to reduce token consumption in LLM prompts.
+
+<p align="left">
+  <a href="https://packagist.org/packages/sbsaga/toon">
+    <img src="https://img.shields.io/packagist/dt/sbsaga/toon?style=for-the-badge&color=8128E5" />
+  </a>
+  <a href="https://github.com/sbsaga/toon">
+    <img src="https://img.shields.io/github/stars/sbsaga/toon?style=for-the-badge&color=FFD700" />
+  </a>
+</p>
+
+> **The Impact:** In modern AI applications, tokens are the primary cost driver. TOON allows developers to send more context for less money, improving both efficiency and model accuracy.
+> [View on Packagist](https://packagist.org/packages/sbsaga/toon) | [View on GitHub](https://github.com/sbsaga/toon)
+
+---
+
+## 🛠 Tech Stack & Engineering Toolkit
+
+### 💻 Backend & Logic
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,python" />
+</p>
+
+### ☁️ Infrastructure & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,linux" />
+</p>
+
+### 🌐 Engineering Bridge (Frontend & Scripts)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,angular" />
+</p>
+
+---
+
+## 📈 Engineering Focus Areas
+
+| **Backend Mastery** | **Cloud & AI Strategy** |
+| :--- | :--- |
+| High-concurrency Spring Boot Apps | Cost-optimized LLM Integration |
+| Laravel Ecosystem & Package Dev | Serverless Architecture (AWS Lambda) |
+| Database Optimization (SQL/NoSQL) | CI/CD Pipeline Automation |
+| Domain-Driven Design (DDD) | RAG (Retrieval-Augmented Generation) |
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sagar-bhedodkar-3a2027184/
-- 🧑‍💻 GitHub: https://github.com/sbsaga
+- 💼 **LinkedIn:** [Sagar Bhedodkar](https://www.linkedin.com/in/sagar-bhedodkar-3a2027184/)
+- 🧑‍💻 **GitHub:** [@sbsaga](https://github.com/sbsaga)
+- ✉️ **Email:** sagarbhedodkar456@gmail.com
+
+---
+<p align="center">
+  "Clean code is not just written; it’s engineered."
+</p>
