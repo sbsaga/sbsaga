@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Stack-Java_%26_PHP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Main_Stack-Spring_Boot_%26_Laravel-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud-AWS_%26_GCP-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Scalable_Architectures-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI_Systems_%26_Scalability-green?style=flat-square" />
 </p>
 
 ---
